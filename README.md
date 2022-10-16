@@ -26,7 +26,7 @@ Web Application:
 https://note-taker-task.herokuapp.com/
 
 GitHub project:
-https://github.com/Israel2800/note-taker-challenge
+https://github.com/Israel2800/the-note-taker
 
 
 ## Screenshots-Demo
